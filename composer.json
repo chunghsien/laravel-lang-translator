@@ -1,5 +1,5 @@
 {
-    "name": "laravel-lang/translator",
+    "name": "chunghsien/laravel-lang-translator",
     "description": "Text translation using multiple API translators",
     "license": "MIT",
     "type": "library",
